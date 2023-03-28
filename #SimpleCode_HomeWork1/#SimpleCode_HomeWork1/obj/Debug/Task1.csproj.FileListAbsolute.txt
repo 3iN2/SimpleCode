@@ -1,0 +1,8 @@
+D:\Проекты C#\#SimpleCode_HomeWork1\#SimpleCode_HomeWork1\bin\Debug\#SimpleCode_HomeWork1.exe.config
+D:\Проекты C#\#SimpleCode_HomeWork1\#SimpleCode_HomeWork1\bin\Debug\#SimpleCode_HomeWork1.exe
+D:\Проекты C#\#SimpleCode_HomeWork1\#SimpleCode_HomeWork1\bin\Debug\#SimpleCode_HomeWork1.pdb
+D:\Проекты C#\#SimpleCode_HomeWork1\#SimpleCode_HomeWork1\obj\Debug\Task1.csproj.AssemblyReference.cache
+D:\Проекты C#\#SimpleCode_HomeWork1\#SimpleCode_HomeWork1\obj\Debug\Task1.csproj.SuggestedBindingRedirects.cache
+D:\Проекты C#\#SimpleCode_HomeWork1\#SimpleCode_HomeWork1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+D:\Проекты C#\#SimpleCode_HomeWork1\#SimpleCode_HomeWork1\obj\Debug\#SimpleCode_HomeWork1.exe
+D:\Проекты C#\#SimpleCode_HomeWork1\#SimpleCode_HomeWork1\obj\Debug\#SimpleCode_HomeWork1.pdb
